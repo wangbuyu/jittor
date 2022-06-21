@@ -7,8 +7,8 @@
 选手可以基于示例代码填充注释为 TODO 的部分完成该赛题。
 
 ```
-git clone https://github.com/Jittor/gan-jittor.git
-cd gan-jittor/
+git clone https://github.com/wangbuyu/jittor.git
+cd jittor/
 sudo python3.7 -m pip install -r requirements.txt
 cd competition/warm_up_comp
 修改 CGAN.py 使其运行
