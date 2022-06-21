@@ -18,6 +18,10 @@ sudo python3.7 -m pip install -r requirements.txt
 python3.7 -m pip install jittor 
 sudo python3.7 -m pip install -r requirements.txt
 ```
+### 训练
+```
+python CGAN.py
+```
 ### 结果
 ```
 number="18272400481"
