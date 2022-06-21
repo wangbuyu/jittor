@@ -10,6 +10,6 @@
 git clone https://github.com/wangbuyu/jittor.git
 cd jittor/
 sudo python3.7 -m pip install -r requirements.txt
-cd competition/warm_up_comp
+
 修改 CGAN.py 使其运行
 ```
