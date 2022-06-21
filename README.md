@@ -12,7 +12,10 @@ cd jittor/
 sudo python3.7 -m pip install -r requirements.txt
 
 修改 CGAN.py 使其运行
+
+```
 ```
 number="18272400481"
+```
 最后生成的手机号：
 ![result](https://user-images.githubusercontent.com/75471795/174740852-d331bb59-8ec5-4819-86dd-818e16886939.png)
