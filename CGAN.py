@@ -224,7 +224,7 @@ discriminator.eval()
 generator.load('generator_last.pkl')
 discriminator.load('discriminator_last.pkl')
 
-number = "18272400481"  # 写入你注册时绑定的手机号（字符串类型）
+number = ""  # 写入你注册时绑定的手机号（字符串类型）
 n_row = len(number)
 z = jt.array(np.random.normal(0, 1, (n_row, opt.latent_dim))
              ).float32().stop_grad()
